@@ -43,7 +43,7 @@ export const About = () => {
         <img src={img1} alt="" />
         <div className="content">
           <p>digiHealth Homescreen</p>
-          <a href="/src">view project</a>
+          <a href="#">view project</a>
         </div>
       </div>
       </Col>
@@ -52,7 +52,7 @@ export const About = () => {
         <img src={img2} alt="" />
         <div className="content">
           <p>digiHealth Service</p>
-          <a href="/src">view project</a>
+          <a href="#">view project</a>
         </div>
       </div>
       </Col>
@@ -61,7 +61,7 @@ export const About = () => {
         <img src={img3} alt="" />
         <div className="content">
           <p>digiHealth Appointment</p>
-          <a href="/src">view project</a>
+          <a href="#/">view project</a>
         </div>
       </div>
       </Col>

@@ -1,0 +1,28 @@
+{
+  "files": {
+    "main.css": "/digihealth/static/css/main.445b09f0.chunk.css",
+    "main.js": "/digihealth/static/js/main.f20cd900.chunk.js",
+    "main.js.map": "/digihealth/static/js/main.f20cd900.chunk.js.map",
+    "runtime-main.js": "/digihealth/static/js/runtime-main.774cc6a4.js",
+    "runtime-main.js.map": "/digihealth/static/js/runtime-main.774cc6a4.js.map",
+    "static/css/2.31ff0196.chunk.css": "/digihealth/static/css/2.31ff0196.chunk.css",
+    "static/js/2.4c1ef703.chunk.js": "/digihealth/static/js/2.4c1ef703.chunk.js",
+    "static/js/2.4c1ef703.chunk.js.map": "/digihealth/static/js/2.4c1ef703.chunk.js.map",
+    "static/js/3.0f881d2a.chunk.js": "/digihealth/static/js/3.0f881d2a.chunk.js",
+    "static/js/3.0f881d2a.chunk.js.map": "/digihealth/static/js/3.0f881d2a.chunk.js.map",
+    "index.html": "/digihealth/index.html",
+    "static/css/2.31ff0196.chunk.css.map": "/digihealth/static/css/2.31ff0196.chunk.css.map",
+    "static/css/main.445b09f0.chunk.css.map": "/digihealth/static/css/main.445b09f0.chunk.css.map",
+    "static/js/2.4c1ef703.chunk.js.LICENSE.txt": "/digihealth/static/js/2.4c1ef703.chunk.js.LICENSE.txt",
+    "static/media/footer.421a2578.png": "/digihealth/static/media/footer.421a2578.png",
+    "static/media/homescreen.71b89f69.png": "/digihealth/static/media/homescreen.71b89f69.png",
+    "static/media/service.010ed38d.png": "/digihealth/static/media/service.010ed38d.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.774cc6a4.js",
+    "static/css/2.31ff0196.chunk.css",
+    "static/js/2.4c1ef703.chunk.js",
+    "static/css/main.445b09f0.chunk.css",
+    "static/js/main.f20cd900.chunk.js"
+  ]
+}
